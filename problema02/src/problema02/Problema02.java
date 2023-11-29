@@ -21,7 +21,7 @@ public class Problema02 {
         entrada.useLocale(Locale.US);
         // TODO code application logic here
     int numero;
-    int contador = 1;
+    int contador = 0;
     
     System.out.println("Ingrese un numero para su verificacion(sea par o positivo)");
     numero=entrada.nextInt();
